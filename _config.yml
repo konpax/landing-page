@@ -12,12 +12,12 @@ img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Konpax  # Be used at blog posts' author.
-  first_name:   # Be used at index page about me section.
+  first_name:    # Be used at index page about me section.
   last_name:   # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username:   # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
+  facebook_username: Konpax-Trans-423192898028106  # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: office@konpaxtrans.com  # Leave blank if you don't have now
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
@@ -37,7 +37,7 @@ disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your c
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: UA-93473370-3
+  id:
 
 ## google optimize
 go:
