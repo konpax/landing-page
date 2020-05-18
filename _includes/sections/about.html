@@ -58,7 +58,13 @@
     </div>
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg wow zoomIn">
-            <p><span data-i18n="about_me.des">{{ site.author.desc }}</span></p>
+            <h4><span data-i18n="about_me.des">{{ site.author.desc }}</span></h4>
+            <div data-i18n="about_me.address">
+                <p><span data-i18n="about_me.address.street">{{ site.author.address.street }}</span></p>
+                <p><span data-i18n="about_me.address.city">{{ site.author.address.city }}</span></p>
+                <p><span data-i18n="about_me.address.country">{{ site.author.address.country }}</span></p>
+            </div>
+            <p><span data-i18n="about_me.vat">{{ site.author.vat }}</span></p>
         </div>
     </div>
 </div>
